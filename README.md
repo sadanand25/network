@@ -1,2 +1,0 @@
-# network
-network device configuration
